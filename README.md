@@ -1,5 +1,4 @@
-# 1018
-PAT
+
 #include<iostream>
 using namespace std;
 int main()
