@@ -1,8 +1,8 @@
 
-#include<iostream>
-using namespace std;
-int main()
-{
+  #include<iostream>
+  using namespace std;
+  int main()
+  {
 	int n;
 	cin>>n;
 	int victory=0;
@@ -10,7 +10,7 @@ int main()
 	int mid=0;
 	char a,b;
 	int solution[2][3];
-	
+
 	int i=0;
 	int j=0;
 	for(i=0;i<2;i++){
